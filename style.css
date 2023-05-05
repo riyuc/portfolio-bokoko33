@@ -151,8 +151,10 @@ svg{
   left: 50%;
   font-weight: 500;
   font-size: 16px;
+  font-family: Noto Sans JP,sans-serif;
   color: var(--color-text);
   transform: translate(-50%, -50%);
+  letter-spacing: .15em;
 }
 
 .arrow-svg-wrapper{
